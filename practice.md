@@ -1,1 +1,1 @@
-Hello, Git practice
+Hi from Enkhuun - version A
