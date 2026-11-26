@@ -1,1 +1,1 @@
-Hi from Enkhuun - version A
+Bonjour from Batbold, greeted by Enkhuun - merged version
